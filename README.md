@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## TILog ver.1 에 오신것을 환영합니다.
 
 You can use the [editor on GitHub](https://github.com/bizbaeja/bizbaeja.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
